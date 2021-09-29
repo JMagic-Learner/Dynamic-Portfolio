@@ -1,0 +1,2 @@
+(this["webpackJsonpDynamic-Portfolio"]=this["webpackJsonpDynamic-Portfolio"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);n(1);var i=n(3),r=n.n(i),s=n(0);var c=function(){return Object(s.jsxs)("h1",{children:[" THIS IS THE HEADER. This is the text: ","This is the header section that will be rendered in REACT"," "]})};var o=function(){return Object(s.jsx)("div",{children:Object(s.jsx)(c,{})})};r.a.render(Object(s.jsx)(o,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.b91b5038.chunk.js.map

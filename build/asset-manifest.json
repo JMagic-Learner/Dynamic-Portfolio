@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/JMagic-Learner/Dynamic-Portfoliostatic/js/main.b91b5038.chunk.js",
+    "main.js.map": "/JMagic-Learner/Dynamic-Portfoliostatic/js/main.b91b5038.chunk.js.map",
+    "runtime-main.js": "/JMagic-Learner/Dynamic-Portfoliostatic/js/runtime-main.5d4e7a28.js",
+    "runtime-main.js.map": "/JMagic-Learner/Dynamic-Portfoliostatic/js/runtime-main.5d4e7a28.js.map",
+    "static/js/2.5f825276.chunk.js": "/JMagic-Learner/Dynamic-Portfoliostatic/js/2.5f825276.chunk.js",
+    "static/js/2.5f825276.chunk.js.map": "/JMagic-Learner/Dynamic-Portfoliostatic/js/2.5f825276.chunk.js.map",
+    "index.html": "/JMagic-Learner/Dynamic-Portfolioindex.html",
+    "static/js/2.5f825276.chunk.js.LICENSE.txt": "/JMagic-Learner/Dynamic-Portfoliostatic/js/2.5f825276.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d4e7a28.js",
+    "static/js/2.5f825276.chunk.js",
+    "static/js/main.b91b5038.chunk.js"
+  ]
+}
