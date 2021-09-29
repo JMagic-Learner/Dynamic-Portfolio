@@ -1,34 +1,29 @@
 {
-  "name": "Dynamic-Portfolio",
-  "version": "1.0.0",
-  "description": "A redux version of my portfolio. I opted to keep my original portfolio to display serverside capabilties, while using this version to display how React manages to render front end HTML",
-  "main": "index.js",
+  "name": "practice-app",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "babel": "^6.23.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
     "pretty": "^2.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^4.0.3",
-    "web-vitals": "^2.1.0"
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.2"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "react-scripts test",
-    "build": "react-scripts build",
     "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JMagic-Learner/Dynamic-Portfolio.git"
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JMagic-Learner/Dynamic-Portfolio/issues"
-  },
-  "homepage": "https://github.com/JMagic-Learner/Dynamic-Portfolio#readme",
   "browserslist": {
     "production": [
       ">0.2%",
