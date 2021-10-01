@@ -1,17 +1,36 @@
 import React from 'react';
+import '../styles/portfolio_styling.css';
 
-function Project() {
-    const Link1 = 'This should be a link to the main page';
-    const Link2 = 'This should be a link to the project page';
-    const Link3 = 'This should be a link to the contact page';
+const styles = {
+    navigation: {
+       color: 'white',
+       align: 'center',
+       fontSize: 2.5
+    },
+    header: {
+        margin: 50
+    }
+   
+   }
 
-
+function Project( {project, projectCheck}) {
     return (
-    <div>
+<div>
+    {/* Conditionally render the project html elements if the user has clicked projects}*/}
+    {project ? (
+        <div className="horizontal-card">
+            <h2> Project Name </h2>
+            <h2> Description </h2> 
+        </div>    
 
-        <p> name </p>
-        <p> description </p>
-    </div>
+
+    ) : (
+        <div className="horizontal-content" style={styles.header}>
+            <p> This is loading the projects wihtout project true</p>    
+</div> 
+    )}
+    
+</div>
     );
 }
 
