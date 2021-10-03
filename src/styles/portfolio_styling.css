@@ -24,7 +24,7 @@ p, ul {
 }
 
 h1{
-    font-size:x-large;
+    font-size:100px;
     text-align:center;
     margin-bottom:1%;
     color: var(--secondarycolor);

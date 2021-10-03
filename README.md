@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Dynamic-Portfolio (React)
+![NPM](https://img.shields.io/npm/l/inquirer)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[LIVE DEPLOY](https://JMagic-Learner.github.io/Dynamic-Portfolio (React))
+## Description
+Hello, my name is Jason Ma. This application is called Dynamic-Portfolio (React).
+              
+Description:
+This application converts my serverside Professional Portfolio into a REACT based portfolio. This has the majority of the same functionality as my serverside application.              
+          
+Coding Process
+The process is to break down and convert the modularity of the server based portfolio into React based components. Whereas the serverside application uses HANDLEBARS to dynamically render data via ROUTES, this REACT is purely client-side. In a way, there is a lateral translation between HANDLEBARS and Component rendering.
+              
+# Table of Contents 
+If your README is long, add a table of contents to make it easy for users to find what they need.
+- [Installation](##-Installation)
+- [Usage](#Usage)
+- [Credits](#Credits)
+- [License](#license)
+- [Contribution](#contribution)
+- [Test](#test)
+- [Question](#question)
+              
+# Installation
 
-## Available Scripts
+Link to video demonstration how this application works:
+https://drive.google.com/file/d/13Wi25qLBlX8RQuU2vu-ZwW8qSMlAgd3g/view
+              
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Step 1. Clone this repository to your local computer,Step 2. NPM I into the Dynamic-Portfolio folder.,Step 3. npm start to run the REACT application,,,,
+             
+                     
+# Usage
+              
+This application showcases both my professional background, and also highlights my growing expertise.
+                                      
+          
+# License
+            
+License Utilized: 
+![NPM](https://img.shields.io/npm/l/inquirer)
+                      
+                      
+# Contribution
+NPM, Github, REACT, UWBootcamp,
+              
+# Tests
+No testing architecture yet
+              
+# Questions
+Github Username: JMagic-Learner
+Github Profile: 
+[JMagic-Learner](https://github.com/JMagic-Learner)
+              
+If you have any questions, please contact me via email at the following email address;
+MaJason93@gmail.com

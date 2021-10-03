@@ -12,22 +12,50 @@ const styles = {
 
 }
 
-function Navigation({ project, projectCheck}) {
+function Navigation({currentURL , handleURLChange}) {
 
     return (
         <nav>
         <div className="introduction-banner">
                 <h1> Portfolio </h1>
-                <section class="navigation-menu">
+                <div className="navigation-menu">
                     <ul>
-                        <li className="navigation-button" ><a href="/"> Home </a></li>
-                        <li className="navigation-button" onClick={() => projectCheck(!project)}><a href="/projects"> Projects </a></li>
-                        <li className="navigation-button" ><a href="/profile"> Resume </a></li>
+                        <li className="navigation-button" >
+                            <a 
+                            href="#intro" 
+                            onClick={() => handleURLChange('Intro')} 
+                            className={currentURL ==='Intro' ?'nav-link active' : 'nav-link'}
+                        > Home 
+                        </a>
+                        </li>
+                        <li className="navigation-button" >
+                            <a 
+                            href="#project"
+                            onClick={() => handleURLChange('Project')} 
+                            className={currentURL ==='Project' ?'nav-link active' : 'nav-link'}
+                            > Project 
+                        </a>
+                        </li>
+                        <li className="navigation-button" >
+                            <a 
+                            href="#profile"
+                            onClick={() => handleURLChange('Profile')}
+                            className={currentURL ==='Profile' ?'nav-link active' : 'nav-link'}
+                             > Profile 
+                        </a>
+                        </li>
                         <li className="navigation-button" ><a href="https://www.linkedin.com/in/jason-ma-970417113/">LinkedIn </a></li>
                         <li className="navigation-button" ><a href="https://github.com/JMagic-Learner">Github </a></li>
-                        <li className="navigation-button" ><a href="#contact-section"> Contact </a></li>
+                        <li className="navigation-button" >
+                            <a 
+                            href="#contact"
+                            onClick={() => handleURLChange('Contact')}
+                            className={currentURL ==='Contact' ?'nav-link active' : 'nav-link'}
+                            > Contact 
+                            </a>
+                            </li>
                     </ul>
-                </section>
+                </div>
             </div>
         </nav>
     );
