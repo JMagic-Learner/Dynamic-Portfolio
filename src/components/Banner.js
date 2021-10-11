@@ -1,6 +1,6 @@
 import React from 'react';
 import topPic from '../images/JasonMaBanner.jpg';
-import twoPic from '../images/InProgressBanner.jpg';
+
 
 import '../styles/portfolio_styling.css';
 import '../styles/slideshow.css';
