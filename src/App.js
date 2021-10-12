@@ -9,7 +9,7 @@ import Profile from './components/Profile';
 import Intro from './components/Intro';
 import Contact from './components/Contact';
 
-import '../styles/portfolio_styling.css';
+import './styles/portfolio_styling.css';
 
 
 
