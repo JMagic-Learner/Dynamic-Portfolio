@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Portfolio/static/css/main.f2679aa3.chunk.css",
+    "main.js": "/Dynamic-Portfolio/static/js/main.33bde3ed.chunk.js",
+    "main.js.map": "/Dynamic-Portfolio/static/js/main.33bde3ed.chunk.js.map",
+    "runtime-main.js": "/Dynamic-Portfolio/static/js/runtime-main.b4ca556b.js",
+    "runtime-main.js.map": "/Dynamic-Portfolio/static/js/runtime-main.b4ca556b.js.map",
+    "static/js/2.c301b834.chunk.js": "/Dynamic-Portfolio/static/js/2.c301b834.chunk.js",
+    "static/js/2.c301b834.chunk.js.map": "/Dynamic-Portfolio/static/js/2.c301b834.chunk.js.map",
+    "static/js/3.c26b3555.chunk.js": "/Dynamic-Portfolio/static/js/3.c26b3555.chunk.js",
+    "static/js/3.c26b3555.chunk.js.map": "/Dynamic-Portfolio/static/js/3.c26b3555.chunk.js.map",
+    "index.html": "/Dynamic-Portfolio/index.html",
+    "static/css/main.f2679aa3.chunk.css.map": "/Dynamic-Portfolio/static/css/main.f2679aa3.chunk.css.map",
+    "static/js/2.c301b834.chunk.js.LICENSE.txt": "/Dynamic-Portfolio/static/js/2.c301b834.chunk.js.LICENSE.txt",
+    "static/media/JasonMaBanner.ab2cd7e6.jpg": "/Dynamic-Portfolio/static/media/JasonMaBanner.ab2cd7e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4ca556b.js",
+    "static/js/2.c301b834.chunk.js",
+    "static/css/main.f2679aa3.chunk.css",
+    "static/js/main.33bde3ed.chunk.js"
+  ]
+}
