@@ -1,6 +1,4 @@
 import React from 'react';
-import '../styles/portfolio_styling.css';
-
 
 function Intro() {
     return (
