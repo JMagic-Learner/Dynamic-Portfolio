@@ -1,3 +1,15 @@
+:root{
+  --maincolor: #003459;
+  --secondarycolor: white;
+  --tertiarycolor: #00171F;
+  --complementary: #007ea7;
+
+
+  --mainfont: 2.5vw;
+  --secondaryfont: 3.5vw;
+}
+
+
 .App {
   text-align: center;
 }
@@ -110,14 +122,14 @@ h3 {
 .navigation-button {
   padding-top:2.5%;
   width:10%;
-  background-color:var(--maincolor);
+  background-color:#003459;
 
 }
 
 .navigation-button:hover {
   padding-top:2.5%;
   width:10%;
-  background-color: var(--complementary);
+  background-color:#007ea7;
 }
 
 
