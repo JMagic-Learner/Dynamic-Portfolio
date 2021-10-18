@@ -2,16 +2,6 @@ import React from 'react';
 
 
 
-
-const styles = {
- navigation: {
-    color: 'white',
-    align: 'center',
-    fontSize: 2.5
- },
-
-}
-
 function Navigation({currentURL , handleURLChange}) {
 
     return (
