@@ -4,8 +4,6 @@
     --secondarycolor: white;
     --tertiarycolor: #00171F;
     --complementary: #007ea7;
-
-
     --mainfont: 2.5vw;
     --secondaryfont: 3.5vw;
 }
@@ -41,7 +39,7 @@ h3 {
 
 /* styling for the main intro banner */
 .introduction-banner {
-    background-color: var(--maincolor);
+    background-color: #003459;
     opacity:80%;
     box-shadow: 5px 10px;
     width:100%;
