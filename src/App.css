@@ -93,7 +93,7 @@ h3 {
 /* styling for the main intro banner */
 .introduction-banner {
   background-color: var(--maincolor);
-  opacity:80%;
+  opacity:0.8;
   box-shadow: 5px 10px;
   width:100%;
   min-height:40%;   
@@ -122,14 +122,14 @@ h3 {
 .navigation-button {
   padding-top:2.5%;
   width:10%;
-  background-color:#003459;
+  background-color:var(--maincolor);
 
 }
 
 .navigation-button:hover {
   padding-top:2.5%;
   width:10%;
-  background-color:#007ea7;
+  background-color: var(--complementary);
 }
 
 
@@ -153,7 +153,7 @@ h3 {
 .placeholder-box{
   background-color:var(--maincolor);
   border-radius: 40px;
-  opacity:95%;
+  opacity: 0.95;
   box-shadow:5px 10px;  
   width:40%; 
   height:20%;
@@ -164,7 +164,7 @@ h3 {
 
 /* allows some hover interactively, turning the background blue more transparent */
 .placeholder-box:hover{
-  opacity:50%;
+  opacity: 0.5;
 }
 
 
@@ -196,7 +196,7 @@ h3 {
 }
 
 .horizontal-card:hover {
-  opacity: 80%;
+  opacity: 0.8;
 }
 
 a {                        
@@ -279,3 +279,4 @@ is adjusted */
 }
 
 }}
+
